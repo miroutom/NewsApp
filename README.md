@@ -10,13 +10,13 @@
 ## Работа приложения
 При начальном запуске приложения выводится полный список новостей в формате: "Название"-"Картинка". Каждая новость кликабельна.
 
-![image](https://github.com/miroutom/NewsApp/assets/78901500/b222d33d-5012-48b5-bb08-7e5fb41ef4e4)
+<img src="https://github.com/miroutom/NewsApp/assets/78901500/b222d33d-5012-48b5-bb08-7e5fb41ef4e4" width="300" height="500">
 
 
 В приложении осуществлён поиск по ключевым словам. Он происходит как среди названий, так и среди внутреннего краткого описания новости.
 
-![image](https://github.com/miroutom/NewsApp/assets/78901500/cebaf398-6d14-4ba8-a5b3-478727efe4d6)
+<img src="https://github.com/miroutom/NewsApp/assets/78901500/cebaf398-6d14-4ba8-a5b3-478727efe4d6" width="300" height="500">
 
 Сама новость представляет собой краткое её описание, ссылку на первоисточник, где можно прочитать полный контент, а также автора новости и дату, когда она была выложена.
 
-![image](https://github.com/miroutom/NewsApp/assets/78901500/3fdb4241-ef08-43cf-9ca8-2fc5ad28a750)
+<img src="https://github.com/miroutom/NewsApp/assets/78901500/df10e80d-d195-4ced-9edf-16b821727e84" width="300" height="500">
