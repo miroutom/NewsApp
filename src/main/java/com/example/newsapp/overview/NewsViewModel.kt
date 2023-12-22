@@ -28,6 +28,7 @@ class NewsViewModel : ViewModel(){
     val filteredNews : LiveData<List<News.Article>> = _filteredNews
 
    init {
+       _filteredNews.value = emptyList()
        getNewsList()
    }
 
