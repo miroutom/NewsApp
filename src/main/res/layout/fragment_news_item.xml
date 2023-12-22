@@ -65,6 +65,7 @@
             android:padding="8dp"
             android:textSize="24sp"
             android:textAppearance="@style/TextAppearance.MaterialComponents.Body1"
+            android:autoLink="web"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@id/title"
             tools:text='@{String.format("%s \n %s", viewModel.newsItem.description, viewModel.newsItem.url)}' />
